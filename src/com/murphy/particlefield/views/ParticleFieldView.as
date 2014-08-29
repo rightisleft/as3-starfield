@@ -1,15 +1,11 @@
 package com.murphy.particlefield.views
 {
 	import com.murphy.particlefield.models.ParticleFieldModel;
-	import com.murphy.particlefield.controllers.ParticleFieldDiagnosticController;
 	
 	import flash.display.Bitmap;
-	import flash.display.DisplayObject;
 	import flash.display.DisplayObjectContainer;
-	import flash.display.InteractiveObject;
 	import flash.display.MovieClip;
 	import flash.display.Sprite;
-	import flash.events.Event;
 	import flash.text.TextField;
 	
 	public class ParticleFieldView extends Sprite

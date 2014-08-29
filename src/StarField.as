@@ -15,8 +15,8 @@ package
 		private static const WIDTH:int = 640
 		private static const HEIGHT:int = 480
 		private static const COLOR:uint = 0x00FFFFFF;
-		private static const STARTING_STAR_COUNT:int = 100000;
-		private static const ADD_STAR_INCREMENT_COUNT:int = 1000;
+		private static const STARTING_STAR_COUNT:int = 234000;
+		private static const ADD_STAR_INCREMENT_COUNT:int = 123000;
 		private static const SHOW_DEBUG_MODE:Boolean = true;
 		
 		private var _starsFieldController:ParticleFieldController;
